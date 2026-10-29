@@ -1,0 +1,15 @@
+{
+  "name": "LungPath",
+  "short_name": "LungPath",
+  "description": "Pulmonary nodule and lung cancer decision support for UK clinicians",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f9f9fd",
+  "theme_color": "#2e5aa8",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml" }
+  ]
+}
